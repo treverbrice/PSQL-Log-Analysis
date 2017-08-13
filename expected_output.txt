@@ -1,0 +1,10 @@
+[('Candidate is jerk, alleges rival', 338647L), ('Bears love berries, alleges be
+ar', 253801L), ('Bad things gone, say good people', 170098L)]
+
+
+[('Ursula La Multa', Decimal('507594')), ('Rudolf von Treppenwitz', Decimal('423
+457')), ('Anonymous Contributor', Decimal('170098')), ('Markoff Chaney', Decimal
+('84557'))]
+
+
+[(datetime.date(2016, 7, 17), 2.31506899454632)]
