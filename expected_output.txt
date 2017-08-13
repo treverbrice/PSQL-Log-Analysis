@@ -1,10 +1,13 @@
+# this is the output from a function that lists the top three articles on the site and their views
 [('Candidate is jerk, alleges rival', 338647L), ('Bears love berries, alleges be
 ar', 253801L), ('Bad things gone, say good people', 170098L)]
 
 
+# this function lists the most popular authors on the site by total page views
 [('Ursula La Multa', Decimal('507594')), ('Rudolf von Treppenwitz', Decimal('423
 457')), ('Anonymous Contributor', Decimal('170098')), ('Markoff Chaney', Decimal
 ('84557'))]
 
 
+# this function returns a list of the date and error rate of every day where more than 1% of users gets an error
 [(datetime.date(2016, 7, 17), 2.31506899454632)]
